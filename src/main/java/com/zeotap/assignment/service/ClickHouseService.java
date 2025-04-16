@@ -57,7 +57,7 @@ public class ClickHouseService {
         }
     }
 
-    private Connection getConnection(ClickHouseConnectionRequest request) throws Exception {
+    public Connection getConnection(ClickHouseConnectionRequest request) throws Exception {
         String url = "jdbc:clickhouse://" + request.getHost() + ":" + request.getPort() + "/" + request.getDatabase();
         Properties props = new Properties();
         props.setProperty("user", request.getUser());
