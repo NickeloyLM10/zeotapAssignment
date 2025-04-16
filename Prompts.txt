@@ -1,0 +1,33 @@
+"what is clickhouse and why it is used"
+
+"how to convert file to csv in Spring boot"
+
+"how to convert file to json in Spring boot"
+
+"how to convert json file to csv and vice versa in Spring boot"
+
+"can you check if my models are correct"
+
+"how should i handle connection to clickhouse"
+
+"how this column thing is working"
+
+"instead of list of list use list of map"
+
+"i am not setting any password in clickhouse but its asking for it"
+
+"can you create the ingestionService for me"
+
+"what is the core logic you used in ingestionService"
+
+"create ingestionController according to my logic"
+
+"by default password is blank how to fix this"
+
+"write test for ClickHouseServiceTest"
+
+"write test for IngestionServiceTest"
+
+"write test for FileServiceTest correctly"
+
+"give all the prompts from start to end"
